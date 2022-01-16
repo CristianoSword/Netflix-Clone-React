@@ -1,5 +1,5 @@
 
-#Netflix-Clone-React
+# Netflix-Clone-React
 
 Este projeto é um clone de front-end simplificado do Netflix. 
 Foi criado com React. Ele usa a API MovieDB para pesquisar filmes e exibir detalhes.
