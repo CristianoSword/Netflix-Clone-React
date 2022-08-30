@@ -9,7 +9,7 @@ Screenshots:
 ![2022-01-16 13_43_13-Window](https://user-images.githubusercontent.com/16153844/149669245-a3782f4a-6a0c-4d2d-882a-cb6f6861a45a.jpg)
 
 ## Usage
-```bash
+```bash 
 npm start
 ```
 
