@@ -1,5 +1,5 @@
 
-# Netflix-Clone-React
+# Netflix-Clone-React 
 
 This project is a simplified Fron End clone of Netflix.
 It was created with React. It uses MovieDB API to search movies and display details.
